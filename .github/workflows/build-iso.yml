@@ -1,4 +1,5 @@
-- name: Build ISO
+--- 
+  name: Build ISO
   uses: ublue-os/titanoboa@main
   with:
     image-ref: ghcr.io/colleaguesystems/image:latest
